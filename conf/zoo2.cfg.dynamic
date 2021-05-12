@@ -1,2 +1,3 @@
-server.1=localhost:2891:3891:participant;0.0.0.0:2281
-version=1300000000
+server.0=localhost:12011:12012:participant;12013
+server.1=localhost:12014:12015:participant;12016
+server.2=localhost:12017:12018:participant;12019
