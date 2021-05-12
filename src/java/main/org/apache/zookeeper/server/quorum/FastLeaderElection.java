@@ -89,7 +89,7 @@ public class FastLeaderElection implements Election {
 
     QuorumCnxManager manager;
     
-    public static String ipcDir = "/tmp/ipc";
+    public static String ipcDir = "/home/fengwenhan/tmp/samc-ipc";
     
 
     /**
